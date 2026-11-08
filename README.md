@@ -250,7 +250,7 @@ Con las condiciones del experimento, la predicción se evalúa en los mismos ins
 | 8 | Contribución de cada integrante | "Contribución de cada integrante" |
 | 9 | Fuentes (incluye la declaración del uso de IA) | "Fuentes consultadas" |
 
-**Modelo de la simulación** (aceleración constante del CM + rotación uniforme):
+**Modelo de la simulación** (aceleración constante del Centro de Masa + rotación uniforme):
 
 $$x(t) = x_0 + v_0\cos\phi\,t,\qquad y(t) = y_0 + v_0\sin\phi\,t - \tfrac12 g t^2,\qquad \theta(t) = \theta_0 + \omega t$$
 
